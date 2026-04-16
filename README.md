@@ -236,4 +236,3 @@ The app currently:
 - runs Spark SQL analytics for hotspots, average fares, and average durations
 - exposes prediction and analytics endpoints as local JSON APIs
 
-The project is ready for final review and submission cleanup.
