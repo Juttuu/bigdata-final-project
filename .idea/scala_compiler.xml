@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="final-project_9588,final-project_9588.main,final-project_9588.test,nyc-taxi-analytics-ml,nyc-taxi-analytics-ml.main,nyc-taxi-analytics-ml.test" />
+  </component>
+</project>

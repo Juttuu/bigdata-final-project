@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1776309071777,"sparkVersion":"3.5.1","uid":"vecAssembler_73f87e19919d","paramMap":{"handleInvalid":"skip","outputCol":"raw_features","inputCols":["trip_distance","passenger_count"]},"defaultParamMap":{"handleInvalid":"error","outputCol":"vecAssembler_73f87e19919d__output"}}
